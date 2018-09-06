@@ -4,9 +4,6 @@
 
 This is my portfolio website (SPA), designed with Adobe XD & developed with Angular.
 
-## URl
-
-* [https://ritwickdey.github.io/ ](https://ritwickdey.github.io/) :cupid::sparkling_heart:
 
 ## Tech Stuff
 - Angular 
@@ -19,9 +16,7 @@ This is my portfolio website (SPA), designed with Adobe XD & developed with Angu
 * No 3rd party CSS library or component is used
 * Filtering Project Cards in Portfolio Page
 * Angular animation is used for various 
-*  transition effects
-* Reuseable Components & Responsive UI
-* CI/CD to deploy website
+
 
 ----------
 Thank You
